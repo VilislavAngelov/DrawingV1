@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    width: 100wv;
+    background-color: teal;
+}
+
+.dot {
+    width: 4px;
+    height: 4px;
+    border-radius: 2px;
+    background-color: black;
+    position: absolute;
+}
